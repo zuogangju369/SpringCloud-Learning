@@ -61,7 +61,6 @@
         <module>1-Brixton版教程示例/Chapter1-1-7/config-client-eureka-kafka</module>
         <module>1-Brixton版教程示例/Chapter1-1-8/config-server-eureka</module>
         <module>1-Brixton版教程示例/Chapter1-1-8/config-client-eureka</module>
-
         <module>2-Dalston版教程示例/api-gateway</module>
         <module>2-Dalston版教程示例/api-gateway-with-eureka</module>
         <module>2-Dalston版教程示例/config-client</module>
