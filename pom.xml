@@ -20,26 +20,34 @@
 
         <module>Chapter1-1-2/eureka-feign</module>
         <module>Chapter1-1-2/eureka-ribbon</module>
+
         <module>Chapter1-1-3/compute-service</module>
         <module>Chapter1-1-3/eureka-feign</module>
         <module>Chapter1-1-3/eureka-ribbon</module>
         <module>Chapter1-1-3/eureka-server</module>
+
         <module>Chapter1-1-4/config-client</module>
         <module>Chapter1-1-4/config-server</module>
+
         <module>Chapter1-1-5/eureka-server</module>
         <module>Chapter1-1-5/service-A</module>
         <module>Chapter1-1-5/service-B</module>
         <module>Chapter1-1-5/api-gateway</module>
+
         <module>Chapter1-1-6/eureka-server</module>
         <module>Chapter1-1-6/compute-service</module>
+
         <module>Chapter1-1-7/config-server-eureka</module>
         <module>Chapter1-1-7/config-server-eureka-kafka</module>
         <module>Chapter1-1-7/config-client-eureka</module>
         <module>Chapter1-1-7/config-client-eureka-kafka</module>
+
         <module>Chapter1-1-8/config-server-eureka</module>
         <module>Chapter1-1-8/config-client-eureka</module>
+
         <module>1-Brixton版教程示例/Chapter1-1-1/compute-service/</module>
         <module>1-Brixton版教程示例/Chapter1-1-1/eureka-server</module>
+
         <module>1-Brixton版教程示例/Chapter1-1-2/eureka-feign</module>
         <module>1-Brixton版教程示例/Chapter1-1-2/eureka-ribbon</module>
 
@@ -47,33 +55,45 @@
         <module>1-Brixton版教程示例/Chapter1-1-3/compute-service</module>
         <module>1-Brixton版教程示例/Chapter1-1-3/eureka-ribbon</module>
         <module>1-Brixton版教程示例/Chapter1-1-3/eureka-feign</module>
+
         <module>1-Brixton版教程示例/Chapter1-1-4/config-server</module>
         <module>1-Brixton版教程示例/Chapter1-1-4/config-client</module>
+
         <module>1-Brixton版教程示例/Chapter1-1-5/eureka-server</module>
         <module>1-Brixton版教程示例/Chapter1-1-5/service-A</module>
         <module>1-Brixton版教程示例/Chapter1-1-5/service-B</module>
         <module>1-Brixton版教程示例/Chapter1-1-5/eureka-server</module>
+
         <module>1-Brixton版教程示例/Chapter1-1-6/eureka-server</module>
         <module>1-Brixton版教程示例/Chapter1-1-6/compute-service</module>
+
         <module>1-Brixton版教程示例/Chapter1-1-7/config-server-eureka</module>
         <module>1-Brixton版教程示例/Chapter1-1-7/config-server-eureka-kafka</module>
         <module>1-Brixton版教程示例/Chapter1-1-7/config-client-eureka</module>
         <module>1-Brixton版教程示例/Chapter1-1-7/config-client-eureka-kafka</module>
+
         <module>1-Brixton版教程示例/Chapter1-1-8/config-server-eureka</module>
         <module>1-Brixton版教程示例/Chapter1-1-8/config-client-eureka</module>
+
+        <module>2-Dalston版教程示例/eureka-server</module>
+        <module>2-Dalston版教程示例/eureka-client</module>
+        <module>2-Dalston版教程示例/consul-client</module>
+
+        <module>2-Dalston版教程示例/eureka-consumer</module>
+        <module>2-Dalston版教程示例/consul-consumer</module>
+
+        <module>2-Dalston版教程示例/eureka-consumer-ribbon</module>
+        <module>2-Dalston版教程示例/eureka-consumer-feign</module>
+
+        <module>2-Dalston版教程示例/config-server-git</module>
+        <module>2-Dalston版教程示例/config-client</module>
+
+        <module>2-Dalston版教程示例/eureka-consumer-ribbon-hystrix</module>
+        <module>2-Dalston版教程示例/eureka-consumer-feign-hystrix</module>
+
         <module>2-Dalston版教程示例/api-gateway</module>
         <module>2-Dalston版教程示例/api-gateway-with-eureka</module>
-        <module>2-Dalston版教程示例/config-client</module>
-        <module>2-Dalston版教程示例/config-server-git</module>
-        <module>2-Dalston版教程示例/consul-client</module>
-        <module>2-Dalston版教程示例/consul-consumer</module>
-        <module>2-Dalston版教程示例/eureka-client</module>
-        <module>2-Dalston版教程示例/eureka-consumer</module>
-        <module>2-Dalston版教程示例/eureka-consumer-feign</module>
-        <module>2-Dalston版教程示例/eureka-consumer-feign-hystrix</module>
-        <module>2-Dalston版教程示例/eureka-consumer-ribbon</module>
-        <module>2-Dalston版教程示例/eureka-consumer-ribbon-hystrix</module>
-        <module>2-Dalston版教程示例/eureka-server</module>
+
 
     </modules>
 
